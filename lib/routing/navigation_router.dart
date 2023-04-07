@@ -8,6 +8,7 @@ import 'package:routing_with_navbar/views/navbar/navbar_with_scafoold.dart';
 class NavigationRouter {
   const NavigationRouter._();
   static GoRouter route = GoRouter(
+    debugLogDiagnostics: true,
     navigatorKey: RoutingKeys.rootNavigatorKey,
     initialLocation: NavbarScreens.initialLocation,
     routes: <RouteBase>[
