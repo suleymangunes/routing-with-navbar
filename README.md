@@ -1,16 +1,33 @@
-# routing_with_navbar
+# Routing with NavBar using Go Router
 
-A new Flutter project.
+With this project we used Routing operators with Navigation Bar using go router.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Images
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<p float="left">
+  <img hspace="20" src="readme_files/a.png" width="200" />
+  <img hspace="20"  src="readme_files/b.png" width="200" />
+  <img hspace="20"  src="readme_files/c.png" width="200" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<p float="left">
+  <img hspace="20" src="readme_files/ad.png" width="200" />
+  <img hspace="20"  src="readme_files/bd.png" width="200" />
+  <img hspace="20"  src="readme_files/cd.png" width="200" />
+</p>
+
+<br>
+
+## Gif
+
+<br>
+
+<p>
+  <img hspace="20"  src="readme_files/routing_gif.gif" width="200" />
+</p>

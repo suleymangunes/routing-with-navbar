@@ -24,7 +24,7 @@ class RouteDetail {
     routes: <RouteBase>[
       GoRoute(
         path: 'details',
-        parentNavigatorKey: RoutingKeys.shellNavigatorKey,
+        parentNavigatorKey: RoutingKeys.rootNavigatorKey,
         builder: (BuildContext context, GoRouterState state) {
           return const DetailsScreen(label: 'B');
         },
